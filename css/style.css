@@ -79,3 +79,13 @@
     color: black;
     background-color: beige;
 }
+
+footer{
+    background-color: white;
+    padding: 30px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 1.5rem;
+}
